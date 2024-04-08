@@ -1,0 +1,17 @@
+img{
+    width: 300px;
+    height: 200px;
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+
+.dropdown{
+    display: grid;
+    /* position: relative; */
+    /* grid-template-rows:min-content; */
+    justify-content: flex-start;
+}
